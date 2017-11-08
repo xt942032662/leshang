@@ -1,0 +1,451 @@
+{
+	"guide.html": {
+		"resources": [
+			"img/guide/pic(2).png",
+			"js/mui.min.js",
+			"img/guide/shouce.png",
+			"img/guide/pic(1).png",
+			"css/mui.min.css",
+			"img/guide/dapei.png",
+			"img/guide/nocare.png",
+			"img/guide/pic.png",
+			"css/guide.css"
+		],
+		"refer": [
+			"index.html"
+		]
+	},
+	"index.html": {
+		"resources": [
+			"fonts/mui.ttf",
+			"js/mui.min.js",
+			"css/mui.min.css",
+			"js/castapp.js",
+			"home.html",
+			"css/mui_style.css",
+			"font/iconfont.svg",
+			"font/iconfont.ttf",
+			"css/mui_common.css"
+		],
+		"refer": [
+			"home.html",
+			"user.html",
+			"list_shopping.html",
+			"list_stroll.html"
+		]
+	},
+	"home.html": {
+		"resources": [
+			"img/home/banner.png",
+			"js/mui.min.js",
+			"css/mui.min.css",
+			"css/mui_style.css",
+			"fonts/mui.ttf",
+			"img/home/style.png",
+			"img/home/test.png",
+			"img/home/wen.png",
+			"img/home/cloud.png",
+			"img/home/red.png",
+			"img/home/money.png",
+			"img/home/left.png",
+			"css/home.css",
+			"css/mui_common.css",
+			"js/slider.js",
+			"img/home/choice_ru.png",
+			"img/home/bao.png",
+			"img/home/art3.png",
+			"js/jquery.3.2.1.js",
+			"img/home/beauty_three.png",
+			"img/home/touxiang1.png",
+			"img/home/art2.png",
+			"img/home/beauty_one.png",
+			"img/home/shan.png",
+			"img/home/xie.png",
+			"img/home/retro2.png",
+			"img/home/bu.png",
+			"img/home/recommend3.png",
+			"img/home/recommend2.png",
+			"img/home/niu.png",
+			"img/home/retro3.png",
+			"img/home/lianyi.png",
+			"img/home/recommend.png",
+			"img/home/kuo.png",
+			"img/home/art1.png",
+			"img/home/retro.png",
+			"img/home/beauty_four.png",
+			"img/home/choice_maoshan.png",
+			"img/home/recommend1.png",
+			"img/home/beauty_two.png",
+			"img/home/shisang.png",
+			"img/home/retro1.png",
+			"img/home/kua.png"
+		],
+		"refer": [
+			"store.html",
+			"newpeople.html"
+		]
+	},
+	"user.html": {
+		"resources": [
+			"js/mui.min.js",
+			"css/mui.min.css"
+		],
+		"refer": []
+	},
+	"list_shopping.html": {
+		"resources": [
+			"js/mui.min.js"
+		],
+		"refer": []
+	},
+	"store.html": {
+		"resources": [
+			"img/store/inspiration2.png",
+			"img/store/single2.png",
+			"img/store/teach.png",
+			"img/store/inspiration1.png",
+			"img/store/store.png",
+			"img/store/single1.png",
+			"css/store.css",
+			"img/store/single.png",
+			"img/store/single3.png",
+			"img/store/inspiration4.png",
+			"img/store/banner.png",
+			"img/store/eyes.jpg",
+			"img/store/inspiration3.png"
+		],
+		"refer": []
+	},
+	"newpeople.html": {
+		"resources": [
+			"font/iconfont.svg",
+			"font/iconfont.ttf",
+			"img/newpeople/day1.png",
+			"img/newpeople/small.png",
+			"img/newpeople/snap1.png",
+			"img/newpeople/day2.png",
+			"img/newpeople/new_banner.png",
+			"fonts/mui.ttf",
+			"css/newpeople.css",
+			"img/newpeople/snap3.png",
+			"img/newpeople/hot1.png",
+			"img/newpeople/day3.png",
+			"img/newpeople/snap4.png",
+			"img/newpeople/day4.png",
+			"js/mui.min.js",
+			"img/newpeople/hot2.png",
+			"img/newpeople/hot3.png",
+			"css/mui.min.css",
+			"css/mui_common.css",
+			"img/newpeople/snap2.png"
+		],
+		"refer": []
+	},
+	"index/guide.html": {
+		"resources": [
+			"img/guide/pic(2).png",
+			"css/guide.css",
+			"js/mui.min.js",
+			"img/guide/shouce.png",
+			"img/guide/pic(1).png",
+			"css/mui.min.css",
+			"img/guide/dapei.png",
+			"img/guide/nocare.png",
+			"img/guide/pic.png"
+		],
+		"refer": [
+			"index/index.html"
+		]
+	},
+	"index/index.html": {
+		"resources": [
+			"font/iconfont.svg",
+			"font/iconfont.ttf",
+			"css/mui_common.css",
+			"css/mui.min.css",
+			"js/castapp.js",
+			"index/home.html"
+		],
+		"refer": [
+			"index/home.html"
+		]
+	},
+	"index/home.html": {
+		"resources": [
+			"img/index/home/beauty_one.png",
+			"img/index/home/retro2.png",
+			"img/index/home/niu.png",
+			"img/index/home/test.png",
+			"img/index/home/bu.png",
+			"js/jquery.3.2.1.js",
+			"img/index/home/choice_maoshan.png",
+			"img/index/home/beauty_four.png",
+			"img/index/home/recommend3.png",
+			"img/index/home/bao.png",
+			"img/index/home/cloud.png",
+			"img/index/home/art2.png",
+			"img/index/home/banner.png",
+			"img/index/home/art3.png",
+			"img/index/home/wen.png",
+			"img/index/home/recommend2.png",
+			"img/index/home/touxiang1.png",
+			"img/index/home/retro.png",
+			"img/index/home/style.png",
+			"img/index/home/shisang.png",
+			"img/index/home/left.png",
+			"img/index/home/money.png",
+			"img/index/home/shan.png",
+			"img/index/home/art1.png",
+			"fonts/mui.ttf",
+			"img/index/home/retro3.png",
+			"img/index/home/kuo.png",
+			"img/index/home/retro1.png",
+			"img/index/home/kua.png",
+			"img/index/home/choice_ru.png",
+			"img/index/home/beauty_two.png",
+			"img/index/home/recommend.png",
+			"img/index/home/lianyi.png",
+			"img/index/home/recommend1.png",
+			"img/index/home/xie.png",
+			"img/index/home/beauty_three.png",
+			"img/index/home/red.png",
+			"css/index/home.css",
+			"js/index/home.js",
+			"font/iconfont.ttf",
+			"js/mui.min.js",
+			"font/iconfont.svg",
+			"css/mui_common.css",
+			"css/mui.min.css"
+		],
+		"refer": [
+			"index/manual.html",
+			"index/newpeople.html",
+			"index/wcd.html",
+			"index/sspd.html",
+			"index/lxys.html",
+			"index/tksjx.html",
+			"index/spxq.html",
+			"index/search_item.html"
+		]
+	},
+	"index/manual.html": {
+		"resources": [
+			"img/index/manual/tide_2.png",
+			"img/index/manual/tide_4.png",
+			"img/index/manual/sty1.png",
+			"img/index/manual/water.png",
+			"img/index/manual/sty4.png",
+			"css/index/manual.css",
+			"img/index/manual/go.png",
+			"img/index/manual/style_2.png",
+			"img/index/manual/thin.png",
+			"img/index/manual/style_1.png",
+			"img/index/manual/tide_3.png",
+			"img/index/manual/sty5.png",
+			"img/index/manual/sty.png",
+			"img/index/manual/sty3.png",
+			"img/index/manual/korea.png",
+			"img/index/manual/style_3.png",
+			"img/index/manual/sty2.png",
+			"img/index/manual/tide_1.png",
+			"font/iconfont.ttf",
+			"js/jquery.3.2.1.js",
+			"js/mui.min.js",
+			"font/iconfont.svg",
+			"fonts/mui.ttf",
+			"css/mui_common.css",
+			"css/mui.min.css"
+		],
+		"refer": [
+			"index/water.html",
+			"index/bgysm.html"
+		]
+	},
+	"index/water.html": {
+		"resources": [
+			"img/index/store/inspiration2.png",
+			"css/index/water.css",
+			"img/index/store/single3.png",
+			"img/index/store/single.png",
+			"img/index/store/teach.png",
+			"img/index/store/single2.png",
+			"img/index/store/banner.png",
+			"img/index/store/inspiration3.png",
+			"img/index/store/single1.png",
+			"img/index/store/inspiration1.png",
+			"img/index/store/inspiration4.png",
+			"img/index/store/store.png",
+			"img/index/store/eyes.jpg"
+		],
+		"refer": []
+	},
+	"index/newpeople.html": {
+		"resources": [
+			"font/iconfont.svg",
+			"font/iconfont.ttf",
+			"img/index/newpeople/snap2.png",
+			"img/index/newpeople/new_banner.png",
+			"img/index/newpeople/hot3.png",
+			"fonts/mui.ttf",
+			"css/index/newpeople.css",
+			"img/index/newpeople/snap3.png",
+			"img/index/newpeople/snap1.png",
+			"img/index/newpeople/day2.png",
+			"img/index/newpeople/snap4.png",
+			"img/index/newpeople/small.png",
+			"img/index/newpeople/hot1.png",
+			"img/index/newpeople/day4.png",
+			"js/mui.min.js",
+			"img/index/newpeople/day1.png",
+			"css/mui.min.css",
+			"css/mui_common.css",
+			"img/index/newpeople/hot2.png",
+			"img/index/newpeople/day3.png"
+		],
+		"refer": [
+			"index/newpack.html"
+		]
+	},
+	"index/newpack.html": {
+		"resources": [
+			"img/index/newpack/type4.png",
+			"img/index/newpack/type1.png",
+			"img/index/newpack/type3.png",
+			"js/jquery.3.2.1.js",
+			"img/index/newpack/type2.png",
+			"img/index/newpack/server.png",
+			"img/index/newpack/banner.png",
+			"css/index/newpack.css"
+		]
+	},
+	"index/wcd.html": {
+		"resources": [
+			"img/index/wcd/wcd_tx.png",
+			"css/index/wcd.css",
+			"font/iconfont.svg",
+			"font/iconfont.ttf",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui_common.css",
+			"css/mui.min.css",
+			"js/jquery.3.2.1.js"
+		]
+	},
+	"index/sspd.html": {
+		"resources": [
+			"font/iconfont.svg",
+			"font/iconfont.ttf",
+			"img/index/sspd/sspd1s.png",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"img/index/sspd/sspd2.png",
+			"css/index/sspd.css",
+			"css/mui_common.css",
+			"css/mui.min.css",
+			"img/index/store/eyes.jpg",
+			"img/index/sspd/banner.png",
+			"img/index/sspd/sspd1.png"
+		],
+		"refer": [
+			"index/sspd_xx.html"
+		]
+	},
+	"index/lxys.html": {
+		"resources": [
+			"font/iconfont.svg",
+			"font/iconfont.ttf",
+			"img/index/lxys/shone.png",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui_common.css",
+			"css/mui.min.css",
+			"img/index/lxys/shone1.png",
+			"css/index/lxys.css"
+		]
+	},
+	"index/tksjx.html": {
+		"resources": [
+			"font/iconfont.svg",
+			"font/iconfont.ttf",
+			"img/index/txsjx/ban22.png",
+			"img/index/txsjx/ban33.png",
+			"img/index/txsjx/ban111.png",
+			"fonts/mui.ttf",
+			"img/index/txsjx/ban222.png",
+			"img/index/txsjx/banner2.png",
+			"img/index/txsjx/ban1.png",
+			"img/index/txsjx/ban2.png",
+			"img/index/txsjx/ban11.png",
+			"css/index/tksjx.css",
+			"js/mui.min.js",
+			"img/index/txsjx/banner3.png",
+			"css/mui.min.css",
+			"css/mui_common.css",
+			"img/index/txsjx/ban3.png",
+			"img/index/txsjx/banner.png",
+			"img/index/txsjx/ban333.png"
+		]
+	},
+	"index/spxq.html": {
+		"resources": [
+			"font/iconfont.svg",
+			"img/index/spxq/banner.png",
+			"font/iconfont.ttf",
+			"js/mui.min.js",
+			"css/index/spxq.css",
+			"fonts/mui.ttf",
+			"css/mui_common.css",
+			"css/mui.min.css"
+		]
+	},
+	"index/sspd_xx.html": {
+		"resources": [
+			"css/index/sspd_xx.css"
+		]
+	},
+	"index/bgysm.html": {
+		"resources": [
+			"img/index/bgysm/bg4.png",
+			"img/index/bgysm/bg2.png",
+			"img/index/bgysm/bg1.png",
+			"img/index/bgysm/banner.png",
+			"css/index/bgysm.css",
+			"img/index/bgysm/bg3.png",
+			"img/index/bgysm/bg5.png"
+		]
+	},
+	"index/search_item.html": {
+		"resources": [
+			"font/iconfont.svg",
+			"font/iconfont.ttf",
+			"fonts/mui.ttf",
+			"js/jquery.3.2.1.js",
+			"css/public.css",
+			"font/iconfont.css",
+			"js/mui.min.js",
+			"img/index/search/searchItem3.png",
+			"img/index/search/searchItem4.png",
+			"img/index/search/searchItem2.png",
+			"css/mui.min.css",
+			"img/index/search/searchItem1.png",
+			"css/index/search_item.css",
+			"js/resize.js"
+		],
+		"refer": [
+			"index/search.html"
+		]
+	},
+	"index/search.html": {
+		"resources": [
+			"img/index/search/search7.jpg",
+			"img/index/search/search5.jpg",
+			"img/index/search/search4.jpg",
+			"img/index/search/search1.jpg",
+			"img/index/search/search8.jpg",
+			"img/index/search/search6.jpg",
+			"css/index/search.css",
+			"img/index/search/search2.jpg",
+			"img/index/search/search3.jpg"
+		]
+	}
+}
